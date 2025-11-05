@@ -25,14 +25,14 @@
             "id": "dc9a07d9721ce5b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace-mobile.json",
+                "bFile": ".obsidian/workspace-mobile.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "icon": "git-pull-request",
+              "title": "Diff: workspace-mobile.json"
             }
           }
         ],
@@ -177,9 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "553fcce2df21237c",
+  "active": "dc9a07d9721ce5b6",
   "lastOpenFiles": [
-    "欢迎.md",
-    "未命名.md"
+    "未命名.md",
+    "欢迎.md"
   ]
 }
