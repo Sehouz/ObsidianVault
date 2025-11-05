@@ -11,14 +11,14 @@
             "id": "a341617d512e323a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "欢迎"
+              "icon": "git-pull-request",
+              "title": "Diff: data.json"
             }
           },
           {
@@ -177,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc9a07d9721ce5b6",
+  "active": "553fcce2df21237c",
   "lastOpenFiles": [
     "未命名.md",
     "欢迎.md"
