@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinearAlgebra/行列式的计算.md",
+                "file": "LinearAlgebra/矩阵.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "行列式的计算"
+              "title": "矩阵"
             }
           }
         ]
@@ -182,9 +182,13 @@
   },
   "active": "85c46b17e4f2b3f0",
   "lastOpenFiles": [
+    "LinearAlgebra/行列式的计算.md",
+    "LinearAlgebra/矩阵.md",
+    "Pasted image 20260102154737.png",
+    "Pasted image 20260102154408.png",
+    "Pasted image 20260102154255.png",
     "Pasted image 20260102153519.png",
     "Pasted image 20260102153429.png",
-    "LinearAlgebra/行列式的计算.md",
     "Pasted image 20260102153347.png.md",
     "Pasted image 20260102153347.png",
     "Pasted image 20260102153025.png",
@@ -193,12 +197,8 @@
     "Pasted image 20260102152006.png",
     "LinearAlgebra",
     "CostAccounting/第二章 生产费用的归集与分配.md",
-    "CostAccounting/images/Pasted image 20251105223018.png",
-    "CostAccounting/images/Pasted image 20251108233049.png",
     "CostAccounting/images",
     "CostAccounting/作业.md",
-    "CostAccounting/images/Pasted image 20251108233042.png",
-    "CostAccounting/images/Pasted image 20251108233035.png",
     "CostAccounting/第十二章 作业成本管理.md",
     "CostAccounting/第九章 标准成本法.md",
     "CostAccounting/第五章 分步法.md",
