@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinearAlgebra/向量组的线性相关性.md",
+                "file": "LinearAlgebra/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "向量组的线性相关性"
+              "title": "Untitled"
             }
           }
         ],
@@ -197,22 +197,25 @@
   },
   "active": "7d8f5eb28ac7932f",
   "lastOpenFiles": [
+    "LinearAlgebra/矩阵的特征值与特征向量.md",
+    "LinearAlgebra/Untitled.md",
+    "Pasted image 20260103190937.png",
+    "Pasted image 20260103190934.png",
+    "LinearAlgebra/线性方程组.md",
     "LinearAlgebra/向量组的线性相关性.md",
+    "LinearAlgebra/行列式的计算.md",
+    "CostAccounting/第二章 生产费用的归集与分配.md",
     "LinearAlgebra/矩阵.md",
     "Pasted image 20260102162124.png",
     "Pasted image 20260102161535.png",
-    "CostAccounting/第二章 生产费用的归集与分配.md",
     "CostAccounting/第九章 标准成本法.md",
     "Pasted image 20260102155212.png",
-    "LinearAlgebra/行列式的计算.md",
     "Pasted image 20260102154737.png",
     "Pasted image 20260102154408.png",
     "Pasted image 20260102154255.png",
     "Pasted image 20260102153519.png",
     "Pasted image 20260102153429.png",
     "Pasted image 20260102153347.png.md",
-    "Pasted image 20260102153347.png",
-    "Pasted image 20260102153025.png",
     "LinearAlgebra",
     "CostAccounting/images",
     "CostAccounting/作业.md",
